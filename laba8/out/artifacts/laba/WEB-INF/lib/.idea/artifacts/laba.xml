@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="laba">
+    <output-path>$PROJECT_DIR$/out/artifacts/laba</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="laba/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="laba" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="laba" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
